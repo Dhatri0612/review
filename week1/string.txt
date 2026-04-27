@@ -1,0 +1,4 @@
+Input: python programming
+Vowels: 4
+Consonants: 13
+Uppercase: 0
