@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "description": "Gaming Laptop",
+        "price": 55000,
+        "stock": 4,
+        "category": "Electronics"
+    },
+
+    {
+        "id": 2,
+        "name": "Phone",
+        "description": "Android Phone",
+        "price": 20000,
+        "stock": 2,
+        "category": "Electronics"
+    }
+]
